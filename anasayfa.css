@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    background: rgba(0, 0, 0, 0.56);
+    
+    box-sizing: border-box;
+    width: 1349px;
+    height: 87px;
+    border: 1px solid #000;
+    display: flex; 
+    
+}
+.img-style{
+    /*logo*/
+    position: absolute;
+    width: 194px;
+    height: 67px;
+    margin-left: 29px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+div{
+    display: inline-block;    
+    font-size: 25px;
+}
+.link{
+   /* HİKAYELER*/
+    position: absolute;
+    width: 153px;
+    height: 22px;
+    margin-left: 265px;
+    margin-top: 5px;
+    color: #ffff;
+    font-size: 25px;
+    text-decoration: none;
+    font-family:'Work Sans';
+}
+.link2{
+    /*HABERLER*/
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    margin-left: 437px;
+    margin-top: 5px;
+    display: block;
+    color: #ffff;
+    text-decoration: none;
+    font-family:'Work sans';
+}
+.link4{
+    /*İLETİŞİM*/
+    position: absolute;
+    width: 126px;
+    height: 22px;
+    margin-left: 605px;
+    margin-top: 5px;
+    color: #ffff;
+    text-decoration: none;
+    font-family:'Work sans';
+    font-size: 25px;
+}
+.sing-up{
+    /*Kayıt ol*/
+    position: absolute;
+    width: 119px;
+    height: 16px;
+    margin-left: 920px;
+    margin-top: 5px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Work Sans';
+}
+.login{
+    /*GİRİŞ*/
+    width: 200px;
+    height: 45px;
+    margin-left: 1049px;
+    float: right;
+    
+
+    background-color:#A6D0DD;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Work Sans';
+}
+.resim{
+    position: absolute;
+    width: 740px;
+    height: 312px;
+}
+.resim-2{
+    width: 468px;
+    height: 312px;
+    margin-left: 740px;   
+}
+.box{
+    position: absolute;
+    width: 158px;
+    height: 805px;
+    background-color: #2D3091;
+}
+.box-2{
+    display: block;
+    width: 1208px;
+    height: 442px;
+    margin-top: 18px; 
+    margin-bottom: 20px; 
+    background-color: rgba(0, 0, 0, 0.56);
+    padding: 3px;
+}
+h2{
+    /*Bilişim sektörü çeşitlilik çalışmalarını artıracak*/
+    position: absolute;
+    width: 729px;
+    height: 103px;
+    margin-left: 28px;
+
+    font-family: 'Work Sans';
+    font-size: 38px;
+    color: #ffff;
+}
+div>p{
+    position: absolute;
+    width: 666px;
+    height: 395px;
+    margin-top: 130px;
+    margin-left: 22px;
+
+    font-style: oblique;
+    font-family: 'Work Sans';
+    font-size: 32px;
+    color: #ffff;
+}
+.box-3{
+    /*ic_tarih_beyaz 1*/
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    margin-left: 876px;
+    margin-top: 18px;
+}
+.tarih{
+    /*26 Kasım 2019*/
+    position: absolute;
+    width: 256px;
+    height: 41px;
+    margin-left: 947px;
+    margin-top: 18px;
+    font-size: 35px;
+}
+.button-2{
+    position: absolute;
+    width: 470px;
+    height: 87px;
+    margin-left: 727px;
+    margin-top: 320px;
+
+    background-color: #FFB038;
+    border-radius: 50px;text-decoration: none;
+    color: #ffff;
+    font-size: 35px;
+}
+
+/*FOOTER Start*/
+.footer{
+    width: 1366px;
+    height: 129px;
+    background-color: rgba(0, 0, 0, 0.94);
+}
+.name{
+    /*Copyright ! Irmak Akatay*/
+    
+    position: absolute;
+    width: 320px;
+    height: 26px;
+    margin-left: 523px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Work Sans';
+    font-size: 25px;
+    color: #ffff;
+}
+.link5{
+    /*ANA SAYFA*/
+    position: absolute;
+    width: 152px;
+    height: 30px;
+    margin-left: 70px;
+    margin-top: 39px;
+
+    color: #bebebe;
+    font-size: 25px;
+    font-family: 'Spectral SC';
+}

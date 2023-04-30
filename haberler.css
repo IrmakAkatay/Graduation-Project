@@ -1,0 +1,233 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    background: rgba(0, 0, 0, 0.56);
+    
+    box-sizing: border-box;
+    width: 1349px;
+    height: 87px;
+    border: 1px solid #000;
+    display: flex; 
+    
+}
+.img-style{
+    /*logo*/
+    position: absolute;
+    width: 194px;
+    height: 67px;
+    margin-left: 29px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+div{
+    display: inline-block;    
+    font-size: 25px;
+}
+.link{
+   /* HİKAYELER*/
+    position: absolute;
+    width: 153px;
+    height: 22px;
+    margin-left: 265px;
+    margin-top: 5px;
+    color: #ffff;
+    font-size: 25px;
+    text-decoration: none;
+    font-family:'Work Sans';
+}
+.link2{
+    /*HABERLER*/
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    margin-left: 437px;
+    margin-top: 5px;
+    display: block;
+    color: #ffff;
+    text-decoration: none;
+    font-family:'Work sans';
+}
+.link4{
+    /*İLETİŞİM*/
+    position: absolute;
+    width: 126px;
+    height: 22px;
+    margin-left: 645px;
+    margin-top: 5px;
+    color: #ffff;
+    text-decoration: none;
+    font-family:'Work sans';
+    font-size: 25px;
+}
+.sing-up{
+    /*Kayıt ol*/
+    position: absolute;
+    width: 119px;
+    height: 16px;
+    margin-left: 920px;
+    margin-top: 5px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Work Sans';
+  }
+.login{
+    /*GİRİŞ*/
+    width: 200px;
+    height: 45px;
+    margin-left: 1049px;
+    float: right;
+    
+
+    background-color:#A6D0DD;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Work Sans';
+}
+
+.text{
+    /*p>haberler*/
+    position: absolute;
+    width: 555px;
+    height: 106px;
+    margin-left: 445px;
+    margin-top: 53px;
+
+    font-weight: 900;
+    font-family: 'Work Sans';
+    font-size: 60px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.card{
+    display: flex;
+    width: 1363px;
+    height: 1300px;
+    background: rgba(0, 0, 0, 0.56);
+    float: left;
+    margin-right: 435px;
+    margin-top: 190px;
+    background-repeat: no-repeat;
+}  
+#card1{
+    display: flex;
+    width: 1363px;
+    height: 1300px;
+    background: rgba(0, 0, 0, 0.56);
+    float: left;
+    margin-right: 435px;
+    margin-bottom: 50px;
+    margin-top: 190px;
+    background-repeat: no-repeat;
+}
+/*Bilişim sektörü çeşitlilik çalışmalarını artıracak*/
+h2{
+    position: absolute;
+    width: 729px;
+    height: 103px;
+    margin-left: 28px;
+
+    font-family: 'Work Sans';
+    font-size: 38px;
+    color: #ffff;
+}
+
+div>p{
+    position: absolute;
+    width: 1266px;
+    height: 950px;
+    margin-top: 300px;
+    margin-left: 22px;
+
+    font-style: oblique;
+    font-family: 'Work Sans';
+    font-size: 32px;
+    color: #ffff;
+}
+.box-3{
+    /*ic_tarih_beyaz 1*/
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    margin-left: 44px;
+    margin-top: 159px;
+}
+.tarih{
+    /*26 Kasım 2019*/
+    position: absolute;
+    width: 256px;
+    height: 41px;
+    margin-left: 144px;
+    margin-top: 159px;
+    font-size: 35px;
+}
+#head2{
+    width: 729px;
+    height: 103px;
+    margin-left: 28px;
+    margin-top: 650px;
+
+    font-family: 'Work Sans';
+    font-size: 38px;
+    color: #ffff;
+}
+#p2{
+    position: absolute;
+    width: 1266px;
+    height: 950px;
+    margin-top: 780px;
+    margin-left: 22px;
+
+    font-style: oblique;
+    font-family: 'Work Sans';
+    font-size: 32px;
+    color: #ffff;
+}
+#card3{
+    display: flex;
+    width: 1363px;
+    height: 712px;
+    background: rgba(0, 0, 0, 0.56);
+    float: left;
+    margin-right: 435px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+}
+
+      /*FOOTER START*/
+      .footer{
+        position: absolute;
+        width: 1366px;
+        height: 127px;
+        margin-top: 4250px;
+        background-color: rgba(0, 0, 0, 0.94);
+    }
+    .name{
+        /*Copyright ! Irmak Akatay*/
+        
+        position: absolute;
+        width: 320px;
+        height: 26px;
+        margin-left: 523px;
+        margin-top: 50px;
+        text-align: center;
+        font-family: 'Work Sans';
+        font-size: 25px;
+        color: #ffff;
+    }
+    .link5{
+        /*ANA SAYFA*/
+        position: absolute;
+        width: 152px;
+        height: 30px;
+        margin-left: 70px;
+        margin-top: 28px;
+    
+        color: #bebebe;
+        font-size: 25px;
+    }
+    
+     /*FOOTER END*/

@@ -1,0 +1,175 @@
+body{
+  margin: 0;
+}
+.navbar{
+  background: rgba(0, 0, 0, 0.56);
+  
+  box-sizing: border-box;
+  width: 1349px;
+  height: 87px;
+  border: 1px solid #000;
+  display: flex; 
+  
+}
+.img-style{
+  /*logo*/
+  position: absolute;
+  width: 194px;
+  height: 67px;
+  margin-left: 29px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+div{
+  display: inline-block;    
+  font-size: 25px;
+}
+.link{
+ /* HİKAYELER*/
+  position: absolute;
+  width: 153px;
+  height: 22px;
+  margin-left: 265px;
+  margin-top: 5px;
+  color: #ffff;
+  font-size: 25px;
+  text-decoration: none;
+  font-family:'Work Sans';
+}
+.link2{
+  /*HABERLER*/
+  position: absolute;
+  width: 150px;
+  height: 22px;
+  margin-left: 437px;
+  margin-top: 5px;
+  display: block;
+  color: #ffff;
+  text-decoration: none;
+  font-family:'Work sans';
+}
+
+.link4{
+  /*İLETİŞİM*/
+  position: absolute;
+  width: 126px;
+  height: 22px;
+  margin-left: 605px;
+  margin-top: 5px;
+  color: #ffff;
+  text-decoration: none;
+  font-family:'Work sans';
+  font-size: 25px;
+}
+.sing-up{
+  /*Kayıt ol*/
+  position: absolute;
+  width: 119px;
+  height: 16px;
+  margin-left: 920px;
+  margin-top: 5px;
+  font-size: 25px;
+  color: white;
+  font-family: 'Work Sans';
+}
+.login{
+  /*GİRİŞ*/
+  width: 200px;
+  height: 45px;
+  margin-left: 1049px;
+  float: right;
+  
+  background-color:#A6D0DD;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Work Sans';
+}
+
+
+.contact_container{
+  display: block;
+  background: #D9D9D9;
+  float: left;
+  width: 1288px;
+  height: 590px;
+  margin-top: 116px;
+  margin-bottom: 100px;
+  margin-left: 44px;  
+}
+h1{
+  color: black;
+  text-align: center;
+}
+
+.contact_container{
+    background: #D9D9D9;
+    width: 1288px;
+    height: 550px;
+    margin-top: 116px;
+    margin-left: 44px;  
+}
+form{
+  text-align:center; 
+  margin-right: 700px;
+}
+
+input{
+  background: #656565;
+  width: 381px;
+  height: 50px;
+  margin-bottom: 38px;
+}
+.mail{
+  margin-left:29px;
+}
+.message{
+  background: #656565;
+  width: 381px;
+  height: 157px;
+  margin-top: 30px;
+}
+
+button{
+  width: 95px;
+  height: 38px;
+  background: #656565;
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  margin-left: 400px;
+}
+
+
+/*FOOTER Start*/
+.footer{
+  width:  1288px;
+  height: 129px;
+  margin-top: 320px;
+  background-color: rgba(0, 0, 0, 0.94);
+}
+  /*Copyright ! Irmak Akatay*/
+.name{
+  position: absolute;
+  height: 26px;
+  margin-left: 523px;
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Work Sans';
+  font-size: 25px;
+  color: #ffff;
+}
+.link5{
+  /*ANA SAYFA*/
+  position: absolute;
+  width: 152px;
+  height: 30px;
+  margin-left: 70px;
+  margin-top: 39px;
+
+  color: #bebebe;
+  font-size: 25px;
+  font-family: 'Spectral SC';
+}
+ 
+
